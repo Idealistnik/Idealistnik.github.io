@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+
+    background-color: darkgrey;
+    color: #333333;
+
+    width: 980px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+main>h2 {    
+    font-size: 25px;
+}
+
+li {
+    list-style: none;    
+}
